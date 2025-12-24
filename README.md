@@ -53,6 +53,6 @@
 
 ### 🔥 Currently
 
-- 🌱 Learning **Data Structures & Algorithms**
+- 🌱 Learning **Data Structures**
 - 🚀 Building a Microservices-based Social Network
 - 💬 Always open to discussing **architectural solutions** and **best practices**
